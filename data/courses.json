@@ -1,8 +1,9 @@
 [
   {
     "id": 1,
+    "category_id": 1,
     "title": "Html 5 basic to advanced 2022",
-    "thumbnail": "https://cdn5.f-cdn.com/contestentries/1162950/18299824/59efa1ae1a01a_thumb900.jpg",
+    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/learn-hub-d6174.appspot.com/o/html.png?alt=media&token=b36a4e4f-cc90-4817-a087-27072abf9e64",
     "price": 13.99,
     "instructor": "Tom Cruise",
     "duration": "5 Hours",
@@ -11,8 +12,9 @@
   },
   {
     "id": 2,
+    "category_id": 2,
     "title": "Css 3 basic to advanced 2022",
-    "thumbnail": "https://d28rtuv7aawte3.cloudfront.net/uploads/thumbnails/course_thumbnails/course_thumbnail_efanew_48.jpg",
+    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/learn-hub-d6174.appspot.com/o/css.png?alt=media&token=5cea0fe1-01fc-4bba-8d48-67741ee08445",
     "price": 12.99,
     "instructor": "Brad Pitt",
     "duration": "6 Hours",
@@ -21,8 +23,9 @@
   },
   {
     "id": 3,
+    "category_id": 3,
     "title": "JavaScript basic to advanced 2022",
-    "thumbnail": "https://res.cloudinary.com/practicaldev/image/fetch/s--2aQBiPNP--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/769cuap96tu5s653bzld.jpg",
+    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/learn-hub-d6174.appspot.com/o/js.png?alt=media&token=2d43d30c-016b-4fa0-b7cf-f2df81a529aa",
     "price": 13.99,
     "instructor": "James Bond",
     "duration": "6 Hours",
@@ -31,8 +34,9 @@
   },
   {
     "id": 4,
+    "category_id": 4,
     "title": "ReactJs basic to advanced 2022",
-    "thumbnail": "https://www.achieversit.com/uploads/course_image/react-img2.png",
+    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/learn-hub-d6174.appspot.com/o/react.png?alt=media&token=501e91e9-9b51-4cbe-84ef-43e3b5f0d81c",
     "price": 19.99,
     "instructor": "Dwayne Jhonson",
     "duration": "20 Hours",
@@ -41,8 +45,9 @@
   },
   {
     "id": 5,
+    "category_id": 5,
     "title": "NodeJs basic to advanced 2022",
-    "thumbnail": "https://cdn.gabrieleromanato.com/5c37214980b3/uploads/2018/09/nodejs.jpg",
+    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/learn-hub-d6174.appspot.com/o/node.png?alt=media&token=2850c776-85a3-4529-843e-5098898993af",
     "price": 16.99,
     "instructor": "Robert Downey Jr.",
     "duration": "8 Hours",
@@ -51,8 +56,9 @@
   },
   {
     "id": 6,
+    "category_id": 6,
     "title": "MongoDB basic to advanced 2022",
-    "thumbnail": "https://dbpyje2nswhci.cloudfront.net/images/meta_generic.png",
+    "thumbnail": "https://firebasestorage.googleapis.com/v0/b/learn-hub-d6174.appspot.com/o/mongo.png?alt=media&token=3c7d1d76-f59f-4769-8c13-2368cba23daa",
     "price": 17.99,
     "instructor": "Leonardo Dcaprio",
     "duration": "3 Hours",
